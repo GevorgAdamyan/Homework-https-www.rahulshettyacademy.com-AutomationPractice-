@@ -14,7 +14,7 @@ Find information above for running tests
 
 ### Running Tests
 
-* Run tests on SauceLabs using:
+* Run tests using:
   ```
   npm test
   ```
